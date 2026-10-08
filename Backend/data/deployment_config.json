@@ -1,0 +1,13 @@
+{
+    "model_name": "LSTM",
+    "vocab_size": 10000,
+    "max_sequence_length": 100,
+    "embedding_dim": 128,
+    "rnn_units": 64,
+    "dropout_rate": 0.3,
+    "learning_rate": 0.001,
+    "num_classes": 2,
+    "padding": "post",
+    "truncating": "post",
+    "threshold": 0.5
+}
