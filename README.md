@@ -1128,12 +1128,12 @@ and
 
 # 👨‍💻 Author
 
-<div align="center">
+**Anubhab Samantaray**
 
-### Anubhab Samantaray
+- GitHub: [@Anubhab47677](https://github.com/Anubhab47677)
+- LinkedIn: [Anubhab Samantaray](https://www.linkedin.com/in/anubhab-samantaray/)
 
-**B.Tech — Computer Science & Engineering**  
-**Artificial Intelligence & Machine Learning**
+Computer Science & Engineering — Artificial Intelligence and Machine Learning
 
 </div>
 
